@@ -1,0 +1,3 @@
+smaragdina0
+api = mr_live_rO6kFMbFiRxCTbYw0v4ekjmy7sro8gxg
+wallet = 0x74EcEFD8799e92F2BBc319050e2284fc8F4d7368
